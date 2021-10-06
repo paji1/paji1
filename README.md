@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taha
-- 👀 I’m interested in php java
-- 🌱 I’m currently learning php js
+- 👀 I’m interested in c php java
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on js and php
 - 📫 How to reach me pajinew@gmail.com
 
